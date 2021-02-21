@@ -995,21 +995,21 @@ msgstr "Film casuali"
 #: /1080i/SkinSettings.xml
 msgctxt "#31201"
 msgid "Simple on-screen info (hide poster and plot)"
-msgstr "Información simple en pantalla (oculta argumento y póster)"
+msgstr "Informazioni sullo schermo semplici (nascondi poster e trama)"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31202"
 msgid "Random episodes"
-msgstr "Episodios aleatorios"
+msgstr "Episodi casuali"
 
 msgctxt "#31203"
 msgid "Artwork"
-msgstr "Ilustraciones"
+msgstr "Illustrazioni"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31204"
 msgid "Refresh info"
-msgstr "Refrescar información"
+msgstr "Aggiorna le informazioni"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31205"
@@ -1019,7 +1019,7 @@ msgstr "Discart"
 #: /1080i/SkinSettings.xml
 msgctxt "#31206"
 msgid "Channel numbers"
-msgstr "Número de canales"
+msgstr "Numero del canale"
 
 #: /1080i/Includes_OSD.xml
 msgctxt "#31207"
