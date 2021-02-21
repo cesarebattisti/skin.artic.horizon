@@ -777,132 +777,132 @@ msgstr "Entrate / Budget"
 #: /1080i/SkinSettings.xml
 msgctxt "#31156"
 msgid "PVR Guide"
-msgstr "Guía PVR"
+msgstr "Guída PVR"
 
 #: /1080i/Custom_1120_EnableSearchLists.xml
 msgctxt "#31157"
 msgid "Artist's albums"
-msgstr "Álbumes de artista"
+msgstr "Álbum dell'artista"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31158"
 msgid "Automatically open visualisation after starting a song"
-msgstr "Abrir automáticamente visualización al comenzar una canción"
+msgstr "Apri automaticamente la visualizzazione dopo aver avviato una canzone"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31159"
 msgid "Video sources"
-msgstr "Fuentes de vídeo"
+msgstr Fonti video""
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31160"
 msgid "Music sources"
-msgstr "Fuentes de música"
+msgstr "Fonti musica"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31161"
 msgid "Supported add-ons"
-msgstr "Add-ons soportados"
+msgstr "Add-ons supportati"
 
 #: /1080i/Custom_1116_Wizard.xml
 msgctxt "#31162"
 msgid "Online ratings"
-msgstr "Calificaciones online"
+msgstr "Valutazioni online"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31163"
 msgid "Submenu items"
-msgstr "Elementos submenú"
+msgstr "Voci di sottomenu"
 
 #: /1080i/Includes_DialogVideoInfo.xml
 msgctxt "#31164"
 msgid "Awards"
-msgstr "Premios"
+msgstr "Premi"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31165"
 msgid "Lists and indicators"
-msgstr "Listas e indicadores"
+msgstr "Liste e indicatori"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31166"
 msgid "Customise search lists"
-msgstr "Personalizar listas de búsqueda"
+msgstr "Personalizza gli elenchi di ricerca"
 
 #: /1080i/Custom_1120_EnableSearchLists.xml
 msgctxt "#31167"
 msgid "Music video artists"
-msgstr "Artistas de videos musicales"
+msgstr "Artisti video musicali"
 
 msgctxt "#31168"
 msgid "Startup video or playlist"
-msgstr "Vídeo de inicio o lista de reproducción"
+msgstr "Video o playlist di avvio"
 
 #: /1080i/Custom_1120_EnableSearchLists.xml
 msgctxt "#31169"
 msgid "Edit custom search lists"
-msgstr "Editar listas de búsqueda personalizadas"
+msgstr "Modifica elenchi di ricerca personalizzati"
 
 #: /1080i/Includes_DialogVideoInfo.xml
 msgctxt "#31170"
 msgid "Creator"
-msgstr "Creador"
+msgstr "Creatore"
 
 #: /1080i/Includes_DialogVideoInfo.xml
 msgctxt "#31171"
 msgid "Filename"
-msgstr "Nombre del archivo"
+msgstr "nome del file"
 
 #: /1080i/Includes_DialogVideoInfo.xml
 msgctxt "#31172"
 msgid "Plugin"
-msgstr "Complemento"
+msgstr "plugin"
 
 msgctxt "#31173"
 msgid "Recently added"
-msgstr "Recientemente añadido"
+msgstr "Aggiunto recentemente"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31174"
 msgid "Prefer landscape art over fanart"
-msgstr "Preferir arte landscape sobre fanart"
+msgstr "Prefer landscape art over fanart"
 
 #: /1080i/Custom_1117_ColorPicker.xml
 msgctxt "#31175"
 msgid "Highlight"
-msgstr "Énfasis"
+msgstr "Evidenziare"
 
 msgctxt "#31176"
 msgid "Delete settings shortcut"
-msgstr "Eliminar acceso directo de configuración"
+msgstr "Elimina il collegamento alle impostazioni"
 
 msgctxt "#31177"
 msgid "Are you sure you want to remove the settings shortcut?[CR]Please ensure that you have an alternative method of accessing settings before you remove this shortcut."
-msgstr "¿Está seguro de que desea eliminar el acceso directo de configuración?[CR]Asegúrese de tener un método alternativo para acceder a la configuración antes de eliminar este acceso directo."
+msgstr "Sei sicuro di voler rimuovere il collegamento alle impostazioni? [CR] Assicurati di disporre di un metodo alternativo per accedere alle impostazioni prima di rimuovere questo collegamento."
 
 #: /1080i/Custom_1117_ColorPicker.xml
 msgctxt "#31178"
 msgid "Gradient"
-msgstr "Degradado"
+msgstr "Gradienti"
 
 #: /1080i/Custom_1117_ColorPicker.xml
 msgctxt "#31179"
 msgid "Overlay"
-msgstr "Superposición"
+msgstr "Sovrapposizione"
 
 #: /1080i/Custom_1121_EnableIndicators.xml
 msgctxt "#31180"
 msgid "Watched progress colour"
-msgstr "Color para progreso de visto"
+msgstr "Colore di avanzamento guardato"
 
 msgctxt "#31181"
 msgid "Select icon"
-msgstr "Seleccionar icono"
+msgstr "Selezionare icona"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31182"
 msgid "Additional widgets"
-msgstr "Widgets adicionales"
+msgstr "Widgets aggiuntivi"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31183"
