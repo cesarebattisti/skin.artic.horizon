@@ -912,7 +912,7 @@ msgstr "Widgets predefiniti"
 #: /1080i/Custom_1142_Recommendations.xml
 msgctxt "#31184"
 msgid "Gallery"
-msgstr "Galería"
+msgstr "Gallleria"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31185"
