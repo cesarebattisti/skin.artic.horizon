@@ -961,7 +961,7 @@ msgstr "Seleccionar arte (Kodi)"
 #: /shortcuts/overrides.xml
 msgctxt "#31194"
 msgid "Recently played TV shows"
-msgstr "Series TV reproducidas recientemente"
+msgstr "Series TV riprodotte recentemente"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31195"
