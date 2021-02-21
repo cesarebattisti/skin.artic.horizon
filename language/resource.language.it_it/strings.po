@@ -926,7 +926,7 @@ msgstr "Vista previa de degradado"
 
 msgctxt "#31187"
 msgid "Random albums"
-msgstr "Álbumes aleatorios"
+msgstr "Album causali"
 
 #: /1080i/DialogPVRChannelGuide.xml
 msgctxt "#31188"
