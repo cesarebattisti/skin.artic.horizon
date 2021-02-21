@@ -907,7 +907,7 @@ msgstr "Widgets aggiuntivi"
 #: /shortcuts/overrides.xml
 msgctxt "#31183"
 msgid "Default widgets"
-msgstr "Widgets por defecto"
+msgstr "Widgets predefiniti"
 
 #: /1080i/Custom_1142_Recommendations.xml
 msgctxt "#31184"
