@@ -917,7 +917,7 @@ msgstr "Galería"
 #: /shortcuts/overrides.xml
 msgctxt "#31185"
 msgid "Recently added movies"
-msgstr "Películas agregadas recientemente"
+msgstr "Film aggiunti recentemente"
 
 #: /1080i/Custom_1117_ColorPicker.xml
 msgctxt "#31186"
@@ -990,7 +990,7 @@ msgstr "Modo Kiosko (elimina el acceso a las opciones de administración en el d
 #: /shortcuts/overrides.xml
 msgctxt "#31200"
 msgid "Random movies"
-msgstr "Películas aleatorias"
+msgstr "Film casuali"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31201"
