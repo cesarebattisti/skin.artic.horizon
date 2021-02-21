@@ -941,7 +941,7 @@ msgstr "Solicitar a"
 #: /shortcuts/overrides.xml
 msgctxt "#31190"
 msgid "Recently played movies"
-msgstr "Películas reproducidas recientemente"
+msgstr "Film riprodotti recentemente"
 
 #: /1080i/Includes_DialogVideoInfo.xml
 msgctxt "#31191"
