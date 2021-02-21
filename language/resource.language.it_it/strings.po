@@ -936,7 +936,7 @@ msgstr "In riproduzione"
 #: /1080i/DialogSeekBar.xml
 msgctxt "#31189"
 msgid "Seek to"
-msgstr "Solicitar a"
+msgstr "Cercare di"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31190"
@@ -946,17 +946,17 @@ msgstr "Film riprodotti recentemente"
 #: /1080i/Includes_DialogVideoInfo.xml
 msgctxt "#31191"
 msgid "Press down for cast, crew, recommendations and more"
-msgstr "Presiona hacia abajo para conocer el reparto, el equipo, recomendaciones y más"
+msgstr "Premi per il cast, la troupe, i consigli e altro ancora"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31192"
 msgid "Numeric star rating"
-msgstr "Calificación numérica de estrellas"
+msgstr "Valutazione numerica a stelle"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31193"
 msgid "Select Art (Kodi)"
-msgstr "Seleccionar arte (Kodi)"
+msgstr "Selezionare art (Kodi)"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31194"
@@ -966,26 +966,26 @@ msgstr "Series TV riprodotte recentemente"
 #: /1080i/Includes_Items.xml
 msgctxt "#31195"
 msgid "Select Art (Artwork Beef)"
-msgstr "Seleccionar arte (Artwork Beef)"
+msgstr "Selezionare art (Artwork Beef)"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31196"
 msgid "In-progress TV shows"
-msgstr "Series TV en progreso"
+msgstr "Serie TV in corso"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31197"
 msgid "Download all art"
-msgstr "Descargar todo el arte"
+msgstr "Scarica tutta l'art"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31198"
 msgid "Recently played episodes"
-msgstr "Episodios reproducidos recientemente"
+msgstr "Episodi riprodotti recentemente"
 
 msgctxt "#31199"
 msgid "Kiosk mode (removes access to management options in information dialog)"
-msgstr "Modo Kiosko (elimina el acceso a las opciones de administración en el diálogo de información)"
+msgstr "Modalità Kiosk (rimuove l'accesso alle opzioni di gestione nella finestra di dialogo delle informazioni)"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31200"
