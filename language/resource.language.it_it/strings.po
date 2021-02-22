@@ -1039,7 +1039,7 @@ msgstr "Screenshot"
 #: /shortcuts/tvshows-1.DATA.xml
 msgctxt "#31210"
 msgid "In-progress"
-msgstr "in esecuzione"
+msgstr "in corso"
 
 #: /shortcuts/music-1.DATA.xml
 msgctxt "#31211"
