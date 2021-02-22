@@ -922,7 +922,7 @@ msgstr "Film aggiunti recentemente"
 #: /1080i/Custom_1117_ColorPicker.xml
 msgctxt "#31186"
 msgid "Gradient preview"
-msgstr "Vista previa de degradado"
+msgstr "Anteprima gradiente"
 
 msgctxt "#31187"
 msgid "Random albums"
