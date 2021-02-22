@@ -118,7 +118,7 @@ msgstr "mins"
 #: /1080i/SkinSettings.xml
 msgctxt "#31021"
 msgid "Large artwork replaces seekbar"
-msgstr "Las ilustraciones grandes reemplazan la barra de búsqueda"
+msgstr "il grande artwork sostituisce la seekbar"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31022"
@@ -163,7 +163,7 @@ msgstr "Foto Profilo"
 #: /1080i/SkinSettings.xml
 msgctxt "#31030"
 msgid "Furniture"
-msgstr "Adornos"
+msgstr "Ornamenti"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31031"
@@ -860,12 +860,12 @@ msgstr "plugin"
 
 msgctxt "#31173"
 msgid "Recently added"
-msgstr "Aggiunto recentemente"
+msgstr "Aggiunti recentemente"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31174"
 msgid "Prefer landscape art over fanart"
-msgstr "Prefer landscape art over fanart"
+msgstr "Preferisci landscape alla fanart"
 
 #: /1080i/Custom_1117_ColorPicker.xml
 msgctxt "#31175"
@@ -1024,7 +1024,7 @@ msgstr "Numero del canale"
 #: /1080i/Includes_OSD.xml
 msgctxt "#31207"
 msgid "Ends"
-msgstr "Finaliza alle"
+msgstr "Finisce alle"
 
 #: /1080i/Includes_View_Info.xml
 msgctxt "#31208"
