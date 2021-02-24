@@ -118,12 +118,12 @@ msgstr "mins"
 #: /1080i/SkinSettings.xml
 msgctxt "#31021"
 msgid "Large artwork replaces seekbar"
-msgstr "Las ilustraciones grandes reemplazan la barra de búsqueda"
+msgstr "il grande artwork sostituisce la seekbar"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31022"
 msgid "Autoscroll widgets"
-msgstr "Widgets de desplazamiento automático"
+msgstr "Widget a scorrimento automatico"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31023"
@@ -133,7 +133,7 @@ msgstr "Pantalla completa"
 #: /1080i/SkinSettings.xml
 msgctxt "#31024"
 msgid "Divider style"
-msgstr "Estilo divisor"
+msgstr "Stile divisorio"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31025"
@@ -163,7 +163,7 @@ msgstr "Foto Profilo"
 #: /1080i/SkinSettings.xml
 msgctxt "#31030"
 msgid "Furniture"
-msgstr "Adornos"
+msgstr "Ornamenti"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31031"
@@ -438,7 +438,7 @@ msgstr "Acquamarina"
 #: /1080i/Custom_1116_Wizard.xml
 msgctxt "#31085"
 msgid "Enable these options for the full Arctic Horizon experience.[CR][CR][B]~ Note ~[/B][CR]Other than the colour scheme options$COMMA some of these settings might have a slight impact on the performance of the skin. This wizard can be run again as needed from \"Skin Settings > Lists and Other > Skin Setup Wizard\""
-msgstr "Abilita queste opzioni per l'esperienza Arctic Horizon completa. [CR] [CR] [B] ~ Nota ~ [/ B] [CR] Oltre alle opzioni dello schema di colori $ COMMA alcune di queste impostazioni potrebbero avere un leggero impatto sulle prestazioni della skin. Questa procedura guidata può essere eseguita di nuovo secondo necessità da \"Impostazioni skin> Elenchi e altro> Configurazione guidata skin \""
+msgstr "Abilita queste opzioni per l'esperienza Arctic Horizon completa. Oltre alle opzioni dello schema di colori alcune di queste impostazioni potrebbero avere un leggero impatto sulle prestazioni della skin. Questa procedura guidata può essere eseguita di nuovo secondo necessità da \"Impostazioni skin> Elenchi e altro> Configurazione guidata skin\""
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31086"
@@ -860,12 +860,12 @@ msgstr "plugin"
 
 msgctxt "#31173"
 msgid "Recently added"
-msgstr "Aggiunto recentemente"
+msgstr "Aggiunti recentemente"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31174"
 msgid "Prefer landscape art over fanart"
-msgstr "Prefer landscape art over fanart"
+msgstr "Preferisci landscape alla fanart"
 
 #: /1080i/Custom_1117_ColorPicker.xml
 msgctxt "#31175"
@@ -922,7 +922,7 @@ msgstr "Film aggiunti recentemente"
 #: /1080i/Custom_1117_ColorPicker.xml
 msgctxt "#31186"
 msgid "Gradient preview"
-msgstr "Vista previa de degradado"
+msgstr "Anteprima gradiente"
 
 msgctxt "#31187"
 msgid "Random albums"
@@ -1024,7 +1024,7 @@ msgstr "Numero del canale"
 #: /1080i/Includes_OSD.xml
 msgctxt "#31207"
 msgid "Ends"
-msgstr "Finaliza alle"
+msgstr "Finisce alle"
 
 #: /1080i/Includes_View_Info.xml
 msgctxt "#31208"
@@ -1039,7 +1039,7 @@ msgstr "Screenshot"
 #: /shortcuts/tvshows-1.DATA.xml
 msgctxt "#31210"
 msgid "In-progress"
-msgstr "in esecuzione"
+msgstr "in corso"
 
 #: /shortcuts/music-1.DATA.xml
 msgctxt "#31211"
