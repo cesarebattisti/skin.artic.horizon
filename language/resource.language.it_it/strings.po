@@ -53,7 +53,7 @@ msgstr "Usare informazioni online"
 #: /1080i/SkinSettings.xml
 msgctxt "#31008"
 msgid "Install weather fanart"
-msgstr "Instalar fanart de tiempo"
+msgstr "Installare fanart del tempo"
 
 #: /1080i/Custom_1118_EnableRatings.xml
 msgctxt "#31009"
@@ -73,12 +73,12 @@ msgstr "Aspetto"
 #: /1080i/MyWeather.xml
 msgctxt "#31012"
 msgid "Weather fanart installed"
-msgstr "Fanart del tempo instalato"
+msgstr "Fanart del tempo installato"
 
 #: /1080i/VideoOSD.xml
 msgctxt "#31013"
 msgid "Cast di"
-msgstr "Reparto de"
+msgstr "Cast di"
 
 #: /1080i/MyVideoNav.xml
 msgctxt "#31014"
@@ -108,12 +108,12 @@ msgstr "Acceso directo común"
 #: /1080i/Custom_1118_EnableRatings.xml
 msgctxt "#31019"
 msgid "Hide all ratings"
-msgstr "Ocultar todas las calificaciones"
+msgstr "Nascondi tutte le valutazioni"
 
 #: /1080i/script-globalsearch-main.xml
 msgctxt "#31020"
 msgid "mins"
-msgstr "mins"
+msgstr "minuti"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31021"
@@ -128,7 +128,7 @@ msgstr "Widget a scorrimento automatico"
 #: /1080i/Includes_Items.xml
 msgctxt "#31023"
 msgid "Fullscreen"
-msgstr "Pantalla completa"
+msgstr "schermo intero"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31024"
